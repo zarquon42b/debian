@@ -9,7 +9,7 @@ As root edit /etc/apt/sources.list and add the following line:
 
 ###Import the GPG key:
 
-    wget -O - http://zarquon42b.github.io/debian/pubkey.gpg.key|apt-key add -
+    wget -O - http://zarquon42b.github.io/debian/pubkey.gpg.key|sudo apt-key add -
 
 ### update sources
 
