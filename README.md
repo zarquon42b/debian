@@ -4,7 +4,7 @@
 
 As root edit /etc/apt/sources.list and add the following line:
 
-    deb http://zarquon42b.github.io/debian <release> main
+    deb http://zarquon42b.github.io/debian <stable|testing> main
 
 
 ###Import the GPG key:
