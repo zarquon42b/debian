@@ -1,0 +1,34 @@
+Package: statismo-doc
+Source: statismo
+Version: 0.11.0stable0
+Architecture: all
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 5877
+Suggests: statismo, statismo-core, statismo-dev, statismo-example-data
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo-doc_0.11.0stable0_all.deb
+Size: 859650
+SHA256: 32d5375a4510767063f91f8aefc062f9204ff8aa33e78dbb654ee559dc98c2bd
+SHA1: 6ec2b9a11989e2c11fd456bb2840e29099cb8a53
+MD5sum: e009a43f6a811bacf129bf2501673652
+Description: Statismo is a c++ framework for statistical shape modeling. This package contains the compiled doxygen documentation.
+
+Package: statismo-example-data
+Source: statismo
+Version: 0.11.0stable0
+Architecture: all
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 23614
+Suggests: statismo, statismo-core, statismo-dev, statismo-doc
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo-example-data_0.11.0stable0_all.deb
+Size: 24064190
+SHA256: 5966a713ebbef11ccf5418c7415ffbcb5686cfe6461c9ba36f8989d118c3e81a
+SHA1: a1bdfce7d790a02a4b1f90b9d9bc0e5fc2e99245
+MD5sum: fbc7e8de61e0eed5646e7dee2b0e3ad4
+Description: Statismo is a c++ framework for statistical shape modeling. This package contains example data.
+
