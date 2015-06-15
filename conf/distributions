@@ -1,9 +1,9 @@
-Codename: stable
+Codename: jessie
 Components: main
 Architectures: amd64 i386 source
 SignWith: EE4338FF
 
-Codename: testing
+Codename: stretch
 Components: main
 Architectures: amd64 i386 source
 SignWith: EE4338FF
