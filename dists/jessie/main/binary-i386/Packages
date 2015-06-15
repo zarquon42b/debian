@@ -15,6 +15,43 @@ SHA1: c3f4f71424b0956e95aaa5a2bde0dbeefdd2f09b
 MD5sum: 77ee00b1c914d88358603dca27fef903
 Description: Statismo is a c++ framework for statistical shape modeling. It supports all shape modeling tasks, from model building to shape analysis. Although the main focus of statismo lies on shape modeling, it is designed such that it supports any kind of PCA based statistical model, including statistical deformation models and intensiy models. One of the main goals of statismo is to make the exchange of statistical shape models easy. This is achieved by using a well documented file format based on HDF5. This is a meta package.
 
+Package: statismo-core
+Source: statismo
+Version: 0.11.0jessie0
+Architecture: i386
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 412
+Depends: libboost-date-time1.55.0, libboost-filesystem1.55.0, libboost-program-options1.55.0, libboost-system1.55.0, libboost-thread1.55.0, libc6 (>= 2.3.6-6~), libexpat1 (>= 2.0.1), libgcc1 (>= 1:4.1.1), libhdf5-8, libhdf5-cpp-8 (>= 1.8.13), libjsoncpp0, libstdc++6 (>= 4.6), libvtk6.1, zlib1g (>= 1:1.1.4)
+Suggests: statismo-doc, statismo-example-data
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo-core_0.11.0jessie0_i386.deb
+Size: 82600
+SHA256: fd6c8e9901f03102d3aac092e6209e14c4e56ae3c7e82d99fa122549003069c3
+SHA1: ad2e05d3cee93b90e56f98b93c751b17c3f775ee
+MD5sum: b49759008d90781aa6071b508b71f8c8
+Description: Statismo is a c++ framework for statistical shape modeling. This package contains the core libraries.
+
+Package: statismo-dev
+Source: statismo
+Version: 0.11.0jessie0
+Architecture: i386
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 482
+Depends: statismo-core, libvtk6-dev
+Recommends: libinsighttoolkit4-dev, libhdf5-dev, libeigen3-dev, libboost-date-time-dev, libboost-dev, libboost-system-dev, libboost-thread-dev, cmake, libboost-program-options-dev, libboost-filesystem-dev, libfftw3-dev
+Suggests: statismo-doc, statismo-example-data
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo-dev_0.11.0jessie0_i386.deb
+Size: 59282
+SHA256: 4c132a320ec8a2e1f3e83f17f54845b64cefbb3667b599ace8f80f6d47ad23a9
+SHA1: edb14b2da5cd394bbdba25f9ebe79054a7b0d260
+MD5sum: e16f36b3770ef550b8716edb561538c7
+Description: Statismo is a c++ framework for statistical shape modeling. This package contains the header files for statismo.
+
 Package: statismo-doc
 Source: statismo
 Version: 0.11.0jessie0
@@ -48,4 +85,22 @@ SHA256: 885adad2ea08c3e015942c463693ba215055e1642fce4df88a5d171399471d31
 SHA1: c2c69987d13087639f4305c7d110cf4a4512f6b4
 MD5sum: 16542a683127897e82a2531d9c3082f0
 Description: Statismo is a c++ framework for statistical shape modeling. This package contains example data.
+
+Package: statismo-tools
+Source: statismo
+Version: 0.11.0jessie0
+Architecture: i386
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 29868
+Depends: libboost-date-time1.55.0, libboost-filesystem1.55.0, libboost-program-options1.55.0, libboost-system1.55.0, libboost-thread1.55.0, libc6 (>= 2.3.6-6~), libdcmtk2 (>= 3.6.0), libgcc1 (>= 1:4.1.1), libgdcm2.4, libhdf5-8, libhdf5-cpp-8 (>= 1.8.13), libinsighttoolkit4.6, libjpeg62-turbo (>= 1.3.1), libpng12-0 (>= 1.2.13-4), libstdc++6 (>= 4.9), libtiff5 (>= 4.0.3), statismo-core, zlib1g (>= 1:1.1.4)
+Suggests: statismo, statismo-doc, statismo-dev, statismo-example-data
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo-tools_0.11.0jessie0_i386.deb
+Size: 3780794
+SHA256: 4a376b7bf2f54fdcbf48c2008f08dc78ca37a521f3e284a9f48ab61634dd5086
+SHA1: 27f26ff9c6613bf19e0c99e9db7f61f47c62a1f2
+MD5sum: 6712c367ae36a6959b281d4d1dc93a0c
+Description: Statismo is a c++ framework for statistical shape modeling. This package contains command line tools based on ITK and statismo allowing shape/deformation model generation and model fitting.
 
