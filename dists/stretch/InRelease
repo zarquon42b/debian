@@ -2,35 +2,35 @@
 Hash: SHA1
 
 Codename: stretch
-Date: Mon, 15 Jun 2015 12:26:10 UTC
+Date: Mon, 15 Jun 2015 12:33:58 UTC
 Architectures: amd64 i386
 Components: main
 MD5Sum:
- f3dbe178622714c328e39de94f0f0553 3038 main/binary-amd64/Packages
- 55d84b09f6ca97ada59801a183ce23dd 1070 main/binary-amd64/Packages.gz
+ bc2edda5abd68b766dd08f23a588b7d0 5454 main/binary-amd64/Packages
+ a23a45a3b66e4b8b3e5b922ef7afd52b 1698 main/binary-amd64/Packages.gz
  063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
- be2dac1156adb56813d8ca31901f4031 3003 main/binary-i386/Packages
- 4f55f0dce87d24577098907c73c77e6d 1057 main/binary-i386/Packages.gz
+ 102c2f462773220b9219763a59dae725 5419 main/binary-i386/Packages
+ 3caa347046711ce95b1b38709d0fdc29 1685 main/binary-i386/Packages.gz
  5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
  cc2062bafd5cb694f2b8c35c8e6dca18 1429 main/source/Sources
  65e8d1ce9268aca4e334445067449d18 696 main/source/Sources.gz
  92f9b0ec8b2656847b612632542f1735 37 main/source/Release
 SHA1:
- 53be169eb231da13e5e89f21463264eac878de24 3038 main/binary-amd64/Packages
- ebab386a71a8baa6974ec905054fa12c54788529 1070 main/binary-amd64/Packages.gz
+ 8dfd2376c761b3d25da826ffcbf4d51f435e31ed 5454 main/binary-amd64/Packages
+ 284e13bc7a58b8c9da0c8c4d2f8218e62ba41d57 1698 main/binary-amd64/Packages.gz
  f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
- 050253cefa7586ee6fe50d6e4ef37c6a73ebbd91 3003 main/binary-i386/Packages
- e65b30d187c4efc95d8b1dc1f8957c22490f501d 1057 main/binary-i386/Packages.gz
+ d24a97bb8cbd9c9048f664533b32eb1feea21a9e 5419 main/binary-i386/Packages
+ 6596ecddfc88156b04417bb162708966cbada1c3 1685 main/binary-i386/Packages.gz
  ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
  73323e9092887a862433f5edd8cbc2b0afeb58c3 1429 main/source/Sources
  c06e9d10f22fc916c81929459d63328596598233 696 main/source/Sources.gz
  6bf4af37ca3d5dec33f6438d83b5c1483de0833a 37 main/source/Release
 SHA256:
- 841c492d1b8fb5b81c36806aa45cbb9e1f83a488a998ce9f3fefd7a7ae30d6d6 3038 main/binary-amd64/Packages
- f48f71d829066916b62153838999cf0f1b573f6c511896540aac4cfd85aace3d 1070 main/binary-amd64/Packages.gz
+ 4eacbab1bbde24f3358df657b4b18d76d44aa40ce7183845ce5d1ff7a7e97031 5454 main/binary-amd64/Packages
+ 27b908ee073284d338c9205f5bc5ecac69361c9237cb3a57a8889f1865053ad1 1698 main/binary-amd64/Packages.gz
  f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
- cd2df5fbab82428c3fd42d6a1469cafb3d21363fc80f25f36675761785728655 3003 main/binary-i386/Packages
- dac1c589a45f56c2bda5fd1eda6060a37ead14ead9f23d8b10d30055b15c7c7c 1057 main/binary-i386/Packages.gz
+ 8ef364c2a262faed28d4603f0f4f6d80b1d63591c6fdb2bed6ab2e3e8c4fa443 5419 main/binary-i386/Packages
+ d20a02fc77364ea5025a4dda5e435d68fa99e2f338c9bd6299ddb9af323c2a19 1685 main/binary-i386/Packages.gz
  2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release
  ac2781a1b08d1e5aaac5817e402748e8fdecf78e6b96aa6150cbb1d4268ffb3f 1429 main/source/Sources
  4126dbf358512f0a24586ad3fa735f272d5b18bd3f760c076500f2ad08999110 696 main/source/Sources.gz
@@ -38,11 +38,11 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQEcBAEBAgAGBQJVfsRiAAoJEFup/ZzuQzj/aQkH/2nZ9Up+jVUDk9csAd2HePYm
-uvi2FVFpjZrOth8YUKa8GsIf8kAeVqbwYbq4ERiqh2gOuCp1vscKe/1Ejc+tvJ0/
-geZ9+mwqEFXgXs96Sd/gNISnfTbtkr2w7IcZpEHpbSEqraDg2lrXdDQAiIvjRnPX
-7imIbmDFORuY+EA7OXWTqJwX6LvDlBA7StDriJOdvB81oIBDpoGbK+7fljxJssKE
-ngCEgOLoCQNbt4YtgpbTK37HJC5VhU62zllW9tZSecQLpRN4iZgPtkFJ1LxoZ+MR
-WOVENzGG3ARIvLzxDakhbT9VYauhwyDIZJIhNnwYN3zT++rONGNZNIkiXk2z9Wo=
-=hMQm
+iQEcBAEBAgAGBQJVfsY2AAoJEFup/ZzuQzj/IPsH/2F1v1DF3tL9EItkP41ulsBz
+HAJZqpr0LU9265qiV9FsKwvQM4418L0/joO5B+urkgtjaYlGDRc0Pyn5qbONHXZO
+VoKDhZNb26uyO3xRsKYyhtRfVjqBVUJ4dhexUY31kZTQvTmRSDnifvxAyJcKD1bv
+zizL2GKV9zO3B1ShSP20XqtlYCepwdnoJnpcscdXZFhHcfmBVpQ9TrDuWOn3sM+1
+8iWGtXtECohgCWh9vWf7mX/7QBy8FIVI+tcZijlfb28BQZLu1tFFB6uaFsSQyiOK
+z+8uLx1JKHooHqgTHJZTepRUvpoVXXvtAhWXuQwAW6W6vFbGxB6vj9DcckEZUAI=
+=ycZ1
 -----END PGP SIGNATURE-----

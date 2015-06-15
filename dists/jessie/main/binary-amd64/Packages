@@ -1,3 +1,20 @@
+Package: statismo
+Version: 0.11.0jessie0
+Architecture: all
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 27
+Depends: statismo-core, statismo-dev
+Suggests: statismo-tools, statismo-doc, statismo-example-data
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo_0.11.0jessie0_all.deb
+Size: 2552
+SHA256: 670089e6c654b855ee06d7006682c15c74fc4f85069e9974cd6ce7d23ad7389a
+SHA1: c3f4f71424b0956e95aaa5a2bde0dbeefdd2f09b
+MD5sum: 77ee00b1c914d88358603dca27fef903
+Description: Statismo is a c++ framework for statistical shape modeling. It supports all shape modeling tasks, from model building to shape analysis. Although the main focus of statismo lies on shape modeling, it is designed such that it supports any kind of PCA based statistical model, including statistical deformation models and intensiy models. One of the main goals of statismo is to make the exchange of statistical shape models easy. This is achieved by using a well documented file format based on HDF5. This is a meta package.
+
 Package: statismo-core
 Source: statismo
 Version: 0.11.0jessie0
@@ -34,6 +51,40 @@ SHA256: d275af0f37b25c2e78cddd8021527ada97324348b0b1903a5ed18fe474f9e2d2
 SHA1: b9500095e3c514e546e3b62ef77d611ea7005c15
 MD5sum: 829410112cea2aff8f427e49b4afe2a5
 Description: Statismo is a c++ framework for statistical shape modeling. This package contains the header files for statismo.
+
+Package: statismo-doc
+Source: statismo
+Version: 0.11.0jessie0
+Architecture: all
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 5877
+Suggests: statismo, statismo-core, statismo-dev, statismo-example-data
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo-doc_0.11.0jessie0_all.deb
+Size: 859730
+SHA256: d52fe0af441e55c17862a379a1c546f6a87a8e4aee096da8f7bdc19439321b03
+SHA1: a0d6acbd1a58e1c56ec502003c24fe073e564bfe
+MD5sum: 270be251d58f9c73c520c2a64a3d4e2b
+Description: Statismo is a c++ framework for statistical shape modeling. This package contains the compiled doxygen documentation.
+
+Package: statismo-example-data
+Source: statismo
+Version: 0.11.0jessie0
+Architecture: all
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Installed-Size: 23614
+Suggests: statismo, statismo-core, statismo-dev, statismo-doc
+Homepage: https://github.com/statismo/statismo
+Priority: extra
+Section: utils
+Filename: pool/main/s/statismo/statismo-example-data_0.11.0jessie0_all.deb
+Size: 24064208
+SHA256: 885adad2ea08c3e015942c463693ba215055e1642fce4df88a5d171399471d31
+SHA1: c2c69987d13087639f4305c7d110cf4a4512f6b4
+MD5sum: 16542a683127897e82a2531d9c3082f0
+Description: Statismo is a c++ framework for statistical shape modeling. This package contains example data.
 
 Package: statismo-tools
 Source: statismo
