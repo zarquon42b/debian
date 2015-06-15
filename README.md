@@ -4,8 +4,19 @@
 
 As root edit /etc/apt/sources.list and add the following line:
 
-    deb http://zarquon42b.github.io/debian <jessie|stretch> main
-
+```bash
+## Debian jessie (stable):
+echo "deb http://zarquon42b.github.io/debian jessie main" | \
+sudo tee /etc/apt/sources.list.d/statismo.list
+echo "deb-src http://zarquon42b.github.io/debian jessie main" | \
+sudo tee -a /etc/apt/sources.list.d/statismo.list
+    
+## Debian stretch (testing):
+echo "deb http://zarquon42b.github.io/debian stretch main" | \
+sudo tee /etc/apt/sources.list.d/statismo.list
+echo "deb-src http://zarquon42b.github.io/debian stretch main" | \
+sudo tee -a /etc/apt/sources.list.d/statismo.list
+```
 
 ###Import the GPG key:
 
