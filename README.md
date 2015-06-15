@@ -2,8 +2,6 @@
 
 ###Add  the statismo repository to your debian sources list:
 
-As root edit /etc/apt/sources.list and add the following line:
-
 ```bash
 ## Debian jessie (stable):
 echo "deb http://zarquon42b.github.io/debian jessie main" | \
