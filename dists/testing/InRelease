@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Codename: testing
+Date: Mon, 15 Jun 2015 11:10:38 UTC
+Architectures: amd64 i386
+Components: main
+MD5Sum:
+ 5e69b3abd01a9d3e6b03b40751527a59 4376 main/binary-amd64/Packages
+ acee90b781f5d4fa9f124076e28a2053 1357 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+ 23b9b52e020a05b9124534d09874d5e2 1338 main/binary-i386/Packages
+ c597ca7aa61a973b2ef2db98043ca145 595 main/binary-i386/Packages.gz
+ 5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
+ 04b003725b6dae71e2f2fbb47136aaf7 1429 main/source/Sources
+ 847c244f5b1e8c58e7a46b22838508ec 696 main/source/Sources.gz
+ 92f9b0ec8b2656847b612632542f1735 37 main/source/Release
+SHA1:
+ d500cb08d4f801d3efd14b6354963ba1c96bfac7 4376 main/binary-amd64/Packages
+ d18795fe9b5801c4876a3601ea8557f3cc78f988 1357 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+ 6bd84b2d9fa6cb7bce5ac56977b165ce699380c8 1338 main/binary-i386/Packages
+ 2c21a8f7d7c48286e4dc055995b1c7cabbebf0d7 595 main/binary-i386/Packages.gz
+ ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
+ 5eed3f6182c8491cf2a2aa16156c29597429bbe4 1429 main/source/Sources
+ 12da1175f0bc3dda7b628b07d5f59632de96a125 696 main/source/Sources.gz
+ 6bf4af37ca3d5dec33f6438d83b5c1483de0833a 37 main/source/Release
+SHA256:
+ 9c3282e8297ae5bd7522d9697d52ab0717476a7c40ed09188efa3d3aa9893648 4376 main/binary-amd64/Packages
+ 5f00bef016e563e8777e6ff27c3fe68072dd8bba8ed0403f8d5eaef5fad19882 1357 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+ b61398e8c281897fb6a61974c78df10d1601e9f9830a8e89576d42c639a96f5e 1338 main/binary-i386/Packages
+ 26072118cabd4bb6e3cfd7f13bbd3f1f272bb610e9cdda77ebfab4505f363d99 595 main/binary-i386/Packages.gz
+ 2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release
+ 66b6f21b5b505f23d3ca2ea652c288f1c1f99aebc167335090ef7360103e7b99 1429 main/source/Sources
+ 67a966807c758cb9b0648cadcb402789e9cd50476ab975c7f922362a288ca813 696 main/source/Sources.gz
+ 4e2108e8de58972a48b94535ab5f7e553edddf6b18462bf8ba44584b1161a0d9 37 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQEcBAEBAgAGBQJVfrKuAAoJEFup/ZzuQzj/2ewIAIqfUrcJPM3FNtT+00m7KG+l
+puet82trbPjrOxcS8q7pfW5EL/wVSQqTEB25BZa26SWgL9doRtpa6bHksBrA6Tye
+Q0QoTaat5F3olX5xofHOwNF8h7gWTTfT7OkJ03x/iJPVptPb3pxerc9vS3HlCgJJ
++tZ5BUZ7QoSdtJb2I2B7GaV25WBZ6SY2X4SbwsMbJRDh6jJ+Ge8hspeOSKn7SpM6
+i4BjaxuPhmTSZjf1ZpMzmPSNg+c2hS4S5NsWtUCAaS9YMTRzrGXmgg2eWZZEE1s+
+NvD3oMVczQbrFP8rOjveEVk4i8O8vfnqI5OQIGGJR2n2aP2LgRIpxtXiQiSgaRc=
+=y9U+
+-----END PGP SIGNATURE-----
