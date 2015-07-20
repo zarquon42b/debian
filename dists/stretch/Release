@@ -1,34 +1,34 @@
 Codename: stretch
-Date: Mon, 15 Jun 2015 12:33:58 UTC
+Date: Mon, 20 Jul 2015 07:33:56 UTC
 Architectures: amd64 i386
 Components: main
 MD5Sum:
- bc2edda5abd68b766dd08f23a588b7d0 5454 main/binary-amd64/Packages
- a23a45a3b66e4b8b3e5b922ef7afd52b 1698 main/binary-amd64/Packages.gz
+ b99c4102dc5f9fa13f702094162bf9e2 5454 main/binary-amd64/Packages
+ a712e52466042a2e5712084df803bd5f 1705 main/binary-amd64/Packages.gz
  063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
- 102c2f462773220b9219763a59dae725 5419 main/binary-i386/Packages
- 3caa347046711ce95b1b38709d0fdc29 1685 main/binary-i386/Packages.gz
+ 79913feac6071d2093465a9bb301df9e 5419 main/binary-i386/Packages
+ 246bc5c7e717c5634cf07f5ff342d17e 1685 main/binary-i386/Packages.gz
  5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
- cc2062bafd5cb694f2b8c35c8e6dca18 1429 main/source/Sources
- 65e8d1ce9268aca4e334445067449d18 696 main/source/Sources.gz
+ 74fd0c55def6305e547f12afacb653de 1429 main/source/Sources
+ 2e83502fa67a5c1e5a32d0e3e593eb30 691 main/source/Sources.gz
  92f9b0ec8b2656847b612632542f1735 37 main/source/Release
 SHA1:
- 8dfd2376c761b3d25da826ffcbf4d51f435e31ed 5454 main/binary-amd64/Packages
- 284e13bc7a58b8c9da0c8c4d2f8218e62ba41d57 1698 main/binary-amd64/Packages.gz
+ 09618f1b0ab075c8eca3441b788df9c2a231a269 5454 main/binary-amd64/Packages
+ 413d3b5b7303ee25836dfa53050f68c444ce3f87 1705 main/binary-amd64/Packages.gz
  f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
- d24a97bb8cbd9c9048f664533b32eb1feea21a9e 5419 main/binary-i386/Packages
- 6596ecddfc88156b04417bb162708966cbada1c3 1685 main/binary-i386/Packages.gz
+ 5a31bb7d26c5113981a50d1ef2fc41e88c001645 5419 main/binary-i386/Packages
+ c71159e05892c4c5e8124de1e253bbbb9b9d16e2 1685 main/binary-i386/Packages.gz
  ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
- 73323e9092887a862433f5edd8cbc2b0afeb58c3 1429 main/source/Sources
- c06e9d10f22fc916c81929459d63328596598233 696 main/source/Sources.gz
+ 28a4594ed02d6328d6a71ba62237a4b58e5d577c 1429 main/source/Sources
+ ef65d17d019ca53847ffefef4dbc48bf1e39cfb9 691 main/source/Sources.gz
  6bf4af37ca3d5dec33f6438d83b5c1483de0833a 37 main/source/Release
 SHA256:
- 4eacbab1bbde24f3358df657b4b18d76d44aa40ce7183845ce5d1ff7a7e97031 5454 main/binary-amd64/Packages
- 27b908ee073284d338c9205f5bc5ecac69361c9237cb3a57a8889f1865053ad1 1698 main/binary-amd64/Packages.gz
+ ed4e7d65d4e77483e58f42bddc220bfc18b7f26d8c6b62f00b35914b93eaf379 5454 main/binary-amd64/Packages
+ c8e12a2fe69b9508a2d544a5cfd2a62da680c6a629ab7fa1090a60c36a3c8e79 1705 main/binary-amd64/Packages.gz
  f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
- 8ef364c2a262faed28d4603f0f4f6d80b1d63591c6fdb2bed6ab2e3e8c4fa443 5419 main/binary-i386/Packages
- d20a02fc77364ea5025a4dda5e435d68fa99e2f338c9bd6299ddb9af323c2a19 1685 main/binary-i386/Packages.gz
+ 251fc332bf83c7b97e6fb3612cd58b9c437087855aae5cd9d4c944cca9bfa694 5419 main/binary-i386/Packages
+ 7695e58520a805796571c7d6cfeac2f728dbe89a4699bf9608e97e44490ba04d 1685 main/binary-i386/Packages.gz
  2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release
- ac2781a1b08d1e5aaac5817e402748e8fdecf78e6b96aa6150cbb1d4268ffb3f 1429 main/source/Sources
- 4126dbf358512f0a24586ad3fa735f272d5b18bd3f760c076500f2ad08999110 696 main/source/Sources.gz
+ b0da7c1e044f1f775077fbdb50abc2d2f19784bf0a09917ce8e3cb3f013336ab 1429 main/source/Sources
+ 08164766c29b319a57464e2daaa589c48597e6d35ada756acfd23e4744347f25 691 main/source/Sources.gz
  4e2108e8de58972a48b94535ab5f7e553edddf6b18462bf8ba44584b1161a0d9 37 main/source/Release
